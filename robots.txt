@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winkfang520.github.io/dlp-website1/sitemap.xml
